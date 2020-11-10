@@ -1,4 +1,4 @@
-# TheDataIncubator
+# buy a house or simply rent?
 A simple demo for the Data incubator to go over the code and files.
 
 Currently the code produces an interactive map that can be used to recommend buying or renting an appartment in different real estate neighbourhoods.
